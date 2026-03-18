@@ -1,10 +1,48 @@
-### Hi there 👋
-![got_ya](https://github.com/user-attachments/assets/436f019e-4f97-41ef-b50d-49259ac66d44)
+```
+    *       .        *       .       *      .
+        .       *        .      *       .
+    *       .        *       .       *
+
+
+                      /\
+                     /  \
+                    /    \
+                   | .  . |
+                   |  /\  |
+                   | /  \ |
+                   |/    \|
+                   |      |
+                  /|  ()  |\
+                 / |      | \
+                /  |______|  \
+               /   /|    |\   \
+              /___/ |    | \___\
+                    |    |
+                   /|    |\
+                  / |    | \
+                 /  |    |  \
+                /   |    |   \
+               /    |    |    \
+              /     | WH |     \
+             /      | OO |      \
+            /       | SH |       \
+           *        |    |        *
+                   ~ ~  ~ ~
+                  ~~ ~~~~~~ ~~
+                 ~ ~~~~~~~~~~ ~
+                ~~ ~~~~~~~~~~ ~~
+
+
+    .       *        .      *       .       *
+        *       .        *      .       *
+```
 
 
 
 <!--
 **jarrodramsey/jarrodramsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![got_ya](https://github.com/user-attachments/assets/436f019e-4f97-41ef-b50d-49259ac66d44)
 
 Here are some ideas to get you started:
 2
